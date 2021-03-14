@@ -223,8 +223,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-container {
-  margin-top: 480px;
-  margin-right: 300px;
+  margin: 480px 380px 0 140px;
   z-index: 5;
 }
 
